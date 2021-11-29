@@ -1,0 +1,12 @@
+{
+  "name": "edge",
+  "version": "1.0.0",
+  "description": "IoT edge device simulation",
+  "main": "edgesimulation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node edgesimulation.js"
+  },
+  "author": "Matt Mai",
+  "license": "ISC"
+}
